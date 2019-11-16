@@ -1,0 +1,19 @@
+.inputs-container {
+  margin: 0 400px 40px;
+}
+
+.calc-tables-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.calc-table {
+  flex: 1;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: beige;
+  border-radius: 20px;
+}

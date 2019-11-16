@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LabelledTextInput given default props renders successfully 1`] = `
+<div
+  className="labelled-row"
+>
+  <p
+    className="label-text"
+  >
+    amount
+  </p>
+  <WithStyles(TextInput)
+    onChange={[MockFunction]}
+    value={0}
+  />
+  <p
+    className="label-text"
+  />
+</div>
+`;

@@ -1,0 +1,13 @@
+.labelled-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.label-text {
+  width: 140px;
+  padding-left: 10px;
+}
